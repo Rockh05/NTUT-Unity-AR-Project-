@@ -7,6 +7,6 @@
 - Google ARCore XR Plugin 5.1.6
 # 安裝方式
 1. 安裝Unity hub
-2. 安裝Unity Editor [安裝連結](unityhub://2022.3.40f1/cbdda657d2f0)
+2. 安裝Unity Editor "unityhub://2022.3.40f1/cbdda657d2f0" 複製到新網頁開啟(要先安裝Unity hub 完)
 3. 
  
