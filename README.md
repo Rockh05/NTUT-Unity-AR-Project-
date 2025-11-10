@@ -12,7 +12,7 @@
 
 https://github.com/user-attachments/assets/5ebbc171-0b60-47cd-bced-10c2e1f2ad43
 
-4. 解壓縮
+4. 下載專案[檔案](https://github.com/Rockh05/NTUT-Unity-AR-Project-/releases/download/Unity_Project/ARplanets.rar)並解壓縮
    
 5. 導入Unity hub
 
