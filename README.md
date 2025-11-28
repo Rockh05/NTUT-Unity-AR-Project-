@@ -1,5 +1,8 @@
 ## NTUT-Unity-AR-Project-
 基本設計專案
+# 最新動態[🔶](https://google.com)
+- 新增AR掃描地標物功能
+
 # 版本
 - Unity hub 3.14.0(這個沒差)
 - Unity Editor 2022.3.40f1
